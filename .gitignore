@@ -1,0 +1,49 @@
+
+# Dependencies
+/node_modules/
+/.pnp/
+.pnp.js
+
+# Testing
+/coverage/
+
+# Next.js
+/.next/
+/out/
+
+# Production
+/build/
+/dist/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
+*.pem
+*.log
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Vercel
+.vercel/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
